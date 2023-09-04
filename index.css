@@ -1,0 +1,45 @@
+*{
+    background-color: cyan;
+}
+
+body{
+    justify-items: center;
+    width: 100%;
+    
+
+}
+
+
+
+.menu{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 35%;
+    
+    justify-items: center; 
+   
+    
+    
+    
+    
+    
+}
+
+
+
+table, th,td,tr
+{
+    border: 2px solid brown;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+h2{
+    margin-left: 30%;
+
+}
+
+
+
